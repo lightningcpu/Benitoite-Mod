@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "benitoitemod:item/benitoite_leggings_quartz_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.1
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_iron_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.2
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_netherite_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.3
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_redstone_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.4
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_copper_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.5
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_gold_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.6
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_emerald_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.7
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_diamond_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.8
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_lapis_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.9
+      }
+    },
+    {
+      "model": "benitoitemod:item/benitoite_leggings_amethyst_trim",
+      "predicate": {
+        "minecraft:trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "benitoitemod:item/benitoite_leggings"
+  }
+}

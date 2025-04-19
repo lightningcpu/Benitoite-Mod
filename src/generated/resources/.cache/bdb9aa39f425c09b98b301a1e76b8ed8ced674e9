@@ -1,0 +1,14 @@
+// 1.21	2025-04-18T21:02:48.2498101	Tags for minecraft:item mod id benitoitemod
+217f9e39c18f8852f87dd1f4c9efb9e02d3f0001 data/benitoitemod/tags/item/benitoite_armor.json
+a5e905f57e2297cc4e57eaf39f7079be4934bb5a data/benitoitemod/tags/item/benitoite_tools.json
+1b132dd40ba7e829baab8dd98a458390459ba112 data/minecraft/tags/item/axes.json
+5167aff6958469303b446017bc5a4a91779e32d6 data/minecraft/tags/item/beacon_payment_items.json
+b5778cd761653d9a070c9d5ae1b1b995e9c44fdf data/minecraft/tags/item/enchantable/chest_armor.json
+c4947849967dddefff4832df30894cf3dc22efec data/minecraft/tags/item/enchantable/foot_armor.json
+6695a9cbaecdf51edf7f12c2e827978f2e80980b data/minecraft/tags/item/enchantable/head_armor.json
+4726ead2a052a2291944c74fa18ae96ae42283bc data/minecraft/tags/item/enchantable/leg_armor.json
+01fb73fdf1d4068dce886803e985767ab9a0ef17 data/minecraft/tags/item/hoes.json
+eb0ddc52d2f5fd34b1b567c8c9ef3563217c17cc data/minecraft/tags/item/pickaxes.json
+fbd21692c29ce7984194d8dea5ed3f07253c5164 data/minecraft/tags/item/shovels.json
+510693c3e94cdb7c7753b6016eb38bbda6db960e data/minecraft/tags/item/swords.json
+3956597878b62e99ddb135aa7b648f537f48425e data/minecraft/tags/item/trimmable_armor.json

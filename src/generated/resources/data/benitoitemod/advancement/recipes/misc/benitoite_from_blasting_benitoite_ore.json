@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_benitoite_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "benitoitemod:benitoite_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "benitoitemod:benitoite_from_blasting_benitoite_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_benitoite_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "benitoitemod:benitoite_from_blasting_benitoite_ore"
+    ]
+  }
+}

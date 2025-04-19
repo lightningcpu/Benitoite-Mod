@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_benitoite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "benitoitemod:benitoite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "benitoitemod:benitoite_helmet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_benitoite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "benitoitemod:benitoite_helmet"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "benitoitemod:benitoite"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "AA",
+    " B",
+    " B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "benitoitemod:benitoite_hoe"
+  }
+}

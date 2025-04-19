@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "benitoitemod:item/benitoite_horse_armor"
+  }
+}

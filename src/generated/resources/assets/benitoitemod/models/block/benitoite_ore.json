@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "benitoitemod:block/benitoite_ore"
+  }
+}
