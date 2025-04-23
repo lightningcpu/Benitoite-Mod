@@ -34,8 +34,21 @@ public class ModBlockTagProvider extends BlockTagsProvider {
                 .add(ModBlocks.RAW_BENITOITE_BLOCK.get())
                 .add(ModBlocks.BENITOITE_ORE.get());
 
+        tag(BlockTags.NEEDS_DIAMOND_TOOL)
+                .add(ModBlocks.BENITOITE_BLOCK.get())
+                .add(ModBlocks.RAW_BENITOITE_BLOCK.get())
+                .add(ModBlocks.BENITOITE_ORE.get());
+
+        tag(BlockTags.INCORRECT_FOR_DIAMOND_TOOL)
+                .add(ModBlocks.BENITOITE_BLOCK.get())
+                .add(ModBlocks.RAW_BENITOITE_BLOCK.get())
+                .add(ModBlocks.BENITOITE_ORE.get());
+
+        tag(ModTags.Blocks.NEEDS_BENITOITE_TOOL)
+                .addTag(Tags.Blocks.NEEDS_NETHERITE_TOOL);
+
         tag(ModTags.Blocks.INCORRECT_FOR_BENITOITE_TOOL)
-                .addTag(BlockTags.INCORRECT_FOR_NETHERITE_TOOL);
-//                .remove(ModTags.Blocks.NEEDS_BENITOITE_TOOL);
+                .addTag(BlockTags.INCORRECT_FOR_NETHERITE_TOOL)
+                .remove(ModTags.Blocks.NEEDS_BENITOITE_TOOL);
     }
 }

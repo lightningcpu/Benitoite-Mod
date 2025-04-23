@@ -1,5 +1,8 @@
-// 1.21	2025-04-23T18:46:05.3822841	Tags for minecraft:block mod id benitoitemod
-edb717ba8ce70db0f1c3d09fbaab29aed6d4e5ff data/benitoitemod/tags/block/incorrect_for_benitoite_tool.json
+// 1.21	2025-04-23T20:35:11.5314627	Tags for minecraft:block mod id benitoitemod
+08112bd7df36bfc184e27e380eb9019049c9507f data/benitoitemod/tags/block/incorrect_for_benitoite_tool.json
+577e7440034a70366bfa9c500aed75a455c5c1c9 data/benitoitemod/tags/block/needs_benitoite_tool.json
 89dbfb1ebaf5d264981f9f39f2465f099da9b7c9 data/forge/tags/block/needs_netherite_tool.json
 e7ca2dacb677aa259e92b6e17dabf888c5a48cc8 data/minecraft/tags/block/beacon_base_blocks.json
+89dbfb1ebaf5d264981f9f39f2465f099da9b7c9 data/minecraft/tags/block/incorrect_for_diamond_tool.json
 89dbfb1ebaf5d264981f9f39f2465f099da9b7c9 data/minecraft/tags/block/mineable/pickaxe.json
+89dbfb1ebaf5d264981f9f39f2465f099da9b7c9 data/minecraft/tags/block/needs_diamond_tool.json
