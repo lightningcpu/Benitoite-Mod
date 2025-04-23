@@ -127,6 +127,13 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .pattern("A A")
                 .define('A', ModItems.BENITOITE.get())
                 .unlockedBy(getHasName(ModItems.BENITOITE.get()), has(ModItems.BENITOITE.get())).save(pRecipeOutput);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.BENITOITE_BOOTS.get())
+                .pattern("  A")
+                .pattern("AAA")
+                .pattern("A A")
+                .define('A', ModItems.BENITOITE.get())
+                .unlockedBy(getHasName(ModItems.BENITOITE.get()), has(ModItems.BENITOITE.get())).save(pRecipeOutput);
     }
 
     protected static void oreSmelting(RecipeOutput recipeOutput, List<ItemLike> pIngredients, RecipeCategory pCategory, ItemLike pResult,
