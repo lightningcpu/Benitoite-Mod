@@ -19,7 +19,6 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.RAW_BENITOITE_BLOCK);
 
         blockWithItem(ModBlocks.BENITOITE_ORE);
-        blockWithItem(ModBlocks.BENITOITE_DEEPSLATE_ORE);
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

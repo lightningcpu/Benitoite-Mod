@@ -1,4 +1,4 @@
-// 1.21	2025-04-18T23:33:18.9550507	Registries
-3a389ce31d4f368ecde51e4bde8f6858fc46bb0d data/benitoitemod/forge/biome_modifier/add_benitoite_ore.json
-e83b2621f19f1cb13fc52967ce35a6c0545cb356 data/benitoitemod/worldgen/configured_feature/benitoite_ore.json
-f096b265d39ffc74332a887a337eaa7cc505b9a5 data/benitoitemod/worldgen/placed_feature/benitoite_ore_placed.json
+// 1.21	2025-04-23T19:23:11.935263	Registries
+bf7ea60bdcd18644f38b2ddcaab4231b5d4439c8 data/benitoitemod/forge/biome_modifier/add_benitoite_ore.json
+7d5ab263d7bf847018055977c7a3ed66a0235256 data/benitoitemod/worldgen/configured_feature/benitoite_ore.json
+1542fb472f147f03b7f3d7e1bcec69b46f109736 data/benitoitemod/worldgen/placed_feature/benitoite_ore_placed.json

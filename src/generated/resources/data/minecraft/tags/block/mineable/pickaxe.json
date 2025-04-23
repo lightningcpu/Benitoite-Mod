@@ -2,7 +2,6 @@
   "values": [
     "benitoitemod:benitoite_block",
     "benitoitemod:raw_benitoite_block",
-    "benitoitemod:benitoite_ore",
-    "benitoitemod:benitoite_deepslate_ore"
+    "benitoitemod:benitoite_ore"
   ]
 }

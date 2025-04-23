@@ -66,7 +66,6 @@ public class BenitoiteMod {
             event.accept(ModBlocks.BENITOITE_BLOCK);
             event.accept(ModBlocks.RAW_BENITOITE_BLOCK);
             event.accept(ModBlocks.BENITOITE_ORE);
-            event.accept(ModBlocks.BENITOITE_DEEPSLATE_ORE);
         }
     }
 

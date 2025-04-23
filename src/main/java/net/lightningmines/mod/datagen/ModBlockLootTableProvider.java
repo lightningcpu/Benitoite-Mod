@@ -30,12 +30,9 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
     protected void generate() {
         dropSelf(ModBlocks.BENITOITE_BLOCK.get());
         dropSelf(ModBlocks.RAW_BENITOITE_BLOCK.get());
-        // dropSelf(ModBlocks.MAGIC_BLOCK.get());
 
         this.add(ModBlocks.BENITOITE_ORE.get(),
                 block -> createOreDrop(ModBlocks.BENITOITE_ORE.get(), ModItems.RAW_BENITOITE.get()));
-        this.add(ModBlocks.BENITOITE_DEEPSLATE_ORE.get(),
-                block -> createOreDrop(ModBlocks.BENITOITE_DEEPSLATE_ORE.get(), ModItems.RAW_BENITOITE.get()));
     }
 
     protected LootTable.Builder createMultipleOreDrops(Block pBlock, Item item, float minDrops, float maxDrops) {

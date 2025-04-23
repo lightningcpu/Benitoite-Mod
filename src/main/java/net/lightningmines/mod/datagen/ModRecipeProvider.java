@@ -22,7 +22,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
     @Override
     protected void buildRecipes(RecipeOutput pRecipeOutput) {
         List<ItemLike> BENITOITE_SMELTABLES = List.of(ModItems.RAW_BENITOITE.get(),
-                ModBlocks.BENITOITE_ORE.get(), ModBlocks.BENITOITE_DEEPSLATE_ORE.get());
+                ModBlocks.BENITOITE_ORE.get());
 
         oreSmelting(pRecipeOutput, BENITOITE_SMELTABLES, RecipeCategory.MISC, ModItems.BENITOITE.get(), 0.25f, 200, "alexandrite");
         oreBlasting(pRecipeOutput, BENITOITE_SMELTABLES, RecipeCategory.MISC, ModItems.BENITOITE.get(), 0.25f, 100, "alexandrite");
@@ -128,7 +128,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .define('A', ModItems.BENITOITE.get())
                 .unlockedBy(getHasName(ModItems.BENITOITE.get()), has(ModItems.BENITOITE.get())).save(pRecipeOutput);
 
-        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.BENITOITE_BOOTS.get())
+        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.BENITOITE_HORSE_ARMOR.get())
                 .pattern("  A")
                 .pattern("AAA")
                 .pattern("A A")

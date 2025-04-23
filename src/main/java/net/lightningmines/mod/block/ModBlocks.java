@@ -32,10 +32,6 @@ public class ModBlocks {
             () -> new DropExperienceBlock(UniformInt.of(2, 4), BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops()));
 
-    public static final RegistryObject<Block> BENITOITE_DEEPSLATE_ORE = registerBlock("benitoite_deepslate_ore",
-            () -> new DropExperienceBlock(UniformInt.of(3,6), BlockBehaviour.Properties.of()
-                    .strength(5f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
-
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
         registerBlockItem(name, toReturn);

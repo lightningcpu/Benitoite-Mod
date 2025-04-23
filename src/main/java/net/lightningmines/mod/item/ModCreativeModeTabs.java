@@ -24,7 +24,6 @@ public class ModCreativeModeTabs {
                                 output.accept(ModBlocks.BENITOITE_BLOCK.get());
                                 output.accept(ModBlocks.RAW_BENITOITE_BLOCK.get());
                                 output.accept(ModBlocks.BENITOITE_ORE.get());
-                                output.accept(ModBlocks.BENITOITE_DEEPSLATE_ORE.get());
                             }).build());
 
     public static final RegistryObject<CreativeModeTab> BENITOITE_TOOLS_TAB =
