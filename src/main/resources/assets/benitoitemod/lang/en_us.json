@@ -1,0 +1,24 @@
+{
+  "item.benitoitemod.benitoite": "Benitoite",
+  "item.benitoitemod.raw_benitoite": "Raw Benitoite",
+
+  "item.benitoitemod.benitoite_sword": "Benitoite Sword",
+  "item.benitoitemod.benitoite_pickaxe": "Benitoite Pickaxe",
+  "item.benitoitemod.benitoite_shovel": "Benitoite Shovel",
+  "item.benitoitemod.benitoite_axe": "Benitoite Axe",
+  "item.benitoitemod.benitoite_hoe": "Benitoite Hoe",
+
+  "item.benitoitemod.benitoite_helmet": "Benitoite Helmet",
+  "item.benitoitemod.benitoite_chestplate": "Benitoite Chestplate",
+  "item.benitoitemod.benitoite_leggings": "Benitoite Leggings",
+  "item.benitoitemod.benitoite_boots": "Benitoite Boots",
+
+  "block.benitoitemod.benitoite_block": "Benitoite Block",
+  "block.benitoitemod.benitoite_ore": "Benitoite Ore",
+  "block.benitoitemod.benitoite_deepslate_ore": "Benitoite Deepslate Ore",
+  "block.benitoitemod.raw_benitoite_block": "Raw Block of Benitoite",
+
+  "creativetab.benitoitemod.benitoite_items": "Benitoite",
+  "creativetab.benitoitemod.benitoite_tools": "Benitoite Tools",
+  "creativetab.benitoitemod.benitoite_armor": "Benitoite Armor"
+}

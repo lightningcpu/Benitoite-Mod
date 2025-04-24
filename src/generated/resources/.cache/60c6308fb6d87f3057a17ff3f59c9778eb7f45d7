@@ -1,0 +1,10 @@
+// 1.20.1	2025-04-24T19:32:38.4651937	Block States: benitoitemod
+05260e8d3e2a9148b6aceeb29a37444b6df1082a assets/benitoitemod/blockstates/benitoite_block.json
+3a1456a2ab4ba0962bd21abb60af1d875a1326ad assets/benitoitemod/blockstates/benitoite_ore.json
+351370e3cd69f507df9c21ab6de653563600dba3 assets/benitoitemod/blockstates/raw_benitoite_block.json
+27e4afe67d6c79fb2bc699d1ef8ff55a263bfff9 assets/benitoitemod/models/block/benitoite_block.json
+12fcd8a0ab575990fb7b50d81e6a617dd3a047f7 assets/benitoitemod/models/block/benitoite_ore.json
+4018966d9e7871b29d9720af8215fc93cd9530c2 assets/benitoitemod/models/block/raw_benitoite_block.json
+010f6062d32a179574b3a9f793d8526e12024a02 assets/benitoitemod/models/item/benitoite_block.json
+7fad8c7178dab6a1eab1061704c5633c8e767778 assets/benitoitemod/models/item/benitoite_ore.json
+167b73617f32ca96294923ac20bfc0a6108c7b59 assets/benitoitemod/models/item/raw_benitoite_block.json

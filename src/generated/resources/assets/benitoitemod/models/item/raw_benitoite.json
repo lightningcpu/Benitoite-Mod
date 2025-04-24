@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "benitoitemod:item/raw_benitoite"
+  }
+}

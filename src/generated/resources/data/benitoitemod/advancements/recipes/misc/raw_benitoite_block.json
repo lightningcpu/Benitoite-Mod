@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_benitoite": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "benitoitemod:raw_benitoite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "benitoitemod:raw_benitoite_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_benitoite",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "benitoitemod:raw_benitoite_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

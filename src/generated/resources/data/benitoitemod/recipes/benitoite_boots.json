@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "benitoitemod:benitoite"
+    }
+  },
+  "pattern": [
+    "A A",
+    "A A"
+  ],
+  "result": {
+    "item": "benitoitemod:benitoite_boots"
+  },
+  "show_notification": true
+}

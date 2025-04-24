@@ -1,0 +1,4 @@
+// 1.20.1	2025-04-24T20:18:07.2188967	Registries
+bf7ea60bdcd18644f38b2ddcaab4231b5d4439c8 data/benitoitemod/forge/biome_modifier/add_benitoite_ore.json
+7d5ab263d7bf847018055977c7a3ed66a0235256 data/benitoitemod/worldgen/configured_feature/benitoite_ore.json
+1fc7f5862a750a088a68e63c14fbc12dccc7a632 data/benitoitemod/worldgen/placed_feature/benitoite_ore_placed.json

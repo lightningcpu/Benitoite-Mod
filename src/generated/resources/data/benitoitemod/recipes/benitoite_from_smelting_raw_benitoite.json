@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "benitoite",
+  "ingredient": {
+    "item": "benitoitemod:raw_benitoite"
+  },
+  "result": "benitoitemod:benitoite"
+}

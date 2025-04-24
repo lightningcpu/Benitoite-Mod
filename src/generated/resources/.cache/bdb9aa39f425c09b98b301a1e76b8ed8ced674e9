@@ -1,0 +1,8 @@
+// 1.20.1	2025-04-24T19:32:38.4381916	Tags for minecraft:item mod id benitoitemod
+1b132dd40ba7e829baab8dd98a458390459ba112 data/minecraft/tags/items/axes.json
+5167aff6958469303b446017bc5a4a91779e32d6 data/minecraft/tags/items/beacon_payment_items.json
+01fb73fdf1d4068dce886803e985767ab9a0ef17 data/minecraft/tags/items/hoes.json
+a66c1efbcc46b3250fa401f1ff022fe2e746a665 data/minecraft/tags/items/pickaxes.json
+fbd21692c29ce7984194d8dea5ed3f07253c5164 data/minecraft/tags/items/shovels.json
+510693c3e94cdb7c7753b6016eb38bbda6db960e data/minecraft/tags/items/swords.json
+3956597878b62e99ddb135aa7b648f537f48425e data/minecraft/tags/items/trimmable_armor.json

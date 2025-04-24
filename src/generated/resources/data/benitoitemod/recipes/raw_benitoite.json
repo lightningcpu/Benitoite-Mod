@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "benitoitemod:raw_benitoite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "benitoitemod:raw_benitoite"
+  }
+}
